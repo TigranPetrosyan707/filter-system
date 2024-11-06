@@ -1,0 +1,88 @@
+.product__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.product__span {
+  background-color: #a0d6b4;
+  color: white;
+  padding: 0 10px;
+  border-radius: 8px;
+}
+
+.sortContainer {
+  position: relative;
+  width: 250px;
+  height: max-content;
+}
+
+.sortLabel {
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.sortSelect {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.sortSelect:hover,
+.sortSelect:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.sortSelect option {
+  padding: 5rem;
+}
+
+.inputBox {
+  width: 100%;
+  height: 40px;
+  outline: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 0 8px;
+}
+
+.list {
+  position: absolute;
+  background: white;
+  top: 100%;
+  width: 100%;
+  height: fix-content;
+  margin-top: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  transition: max-height 0.3s ease;
+  border-radius: 8px;
+  padding: 4px 8px;
+  z-index: 999;
+}
+
+.label {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  cursor: pointer;
+}
+
+.label span {
+  margin-left: 8px;
+}
+
+input[type="radio"]:checked + label {
+  color: #85bb65;
+  font-weight: bold;
+}

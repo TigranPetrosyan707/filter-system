@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "JBL",
+    "price": 145.59,
+    "rating": 4.8,
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/024/558/883/small_2x/black-wireless-headphones-isolated-on-transparent-background-ai-generated-png.png"
+  },
+    {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Bose",
+    "price": 919.86,
+    "rating": 2.1,
+    "imageUrl": "https://www.pngplay.com/wp-content/uploads/13/Bluetooth-Headphones-No-Background.png"
+  },
+    {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Bose",
+    "price": 12.9,
+    "rating": 3.6,
+    "imageUrl": "https://www.pngplay.com/wp-content/uploads/13/Wireless-Headphones-PNG-Images-HD.png"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 85.6,
+    "rating": 4.6,
+    "imageUrl": "https://pngimg.com/d/headphones_PNG101983.png"
+  },
+  {
+    "id": 5,
+    "name": "Cap",
+    "category": "Accessories",
+    "brand": "Nike",
+    "price": 536.8,
+    "rating": 5,
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/027/928/254/small_2x/yellow-baseball-cap-isolated-on-transparent-background-cap-cut-out-mock-up-generative-ai-png.png"
+  },
+  {
+    "id": 6,
+    "name": "Portable Air Conditioner",
+    "category": "Accessories",
+    "brand": "Nike",
+    "price": 19.6,
+    "rating": 4.9,
+    "imageUrl": "https://png.pngtree.com/png-clipart/20230929/original/pngtree-white-cap-isolated-on-white-png-image_13018060.png"
+  },
+  {
+    "id": 7,
+    "name": "PixelPro",
+    "category": "Computers",
+    "brand": "Lenovo",
+    "price": 99.3,
+    "rating": 4.3,
+    "imageUrl": "https://www.transparentpng.com/download/computer/6o4Q2H-png-windows-desktop-set-software-game-coding-.png"
+  },
+  {
+    "id": 8,
+    "name": "Electric Kettle",
+    "category": "Computers",
+    "brand": "Lenovo",
+    "price": 849.99,
+    "rating": 4.4,
+    "imageUrl": "https://i.pinimg.com/originals/45/c4/3f/45c43f0a2785eaafebed5183f4272e6a.png"
+  },
+  {
+    "id": 9,
+    "name": "Refrigerator",
+    "category": "Home Appliances",
+    "brand": "Sony",
+    "price": 98.99,
+    "rating": 3.8,
+    "imageUrl": "https://pngimg.com/d/refrigerator_PNG101546.png"
+  },
+  {
+    "id": 10,
+    "name": "Robot Vacuum",
+    "category": "Home Appliances",
+    "brand": "Samsung",
+    "price": 156.9,
+    "rating": 4.7,
+    "imageUrl": "https://www.midea.com/content/dam/midea-aem/my/vacuum-cleaners/robotics/4000pa--mvc-s8-/Midae_S8_EN_1500X1500_02.png/jcr:content/renditions/cq5dam.compression.png"
+  },
+  {
+    "id": 11,
+    "name": "Leather Jacket",
+    "category": "Fashion",
+    "brand": "Adidas",
+    "price": 74.99,
+    "rating": 1.9,
+    "imageUrl": "https://www.pngplay.com/wp-content/uploads/4/Leather-Jacket-Download-Free-PNG.png"
+  },
+  {
+    "id": 12,
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "brand": "Nike",
+    "price": 89.99,
+    "rating": 4.4,
+    "imageUrl": "https://purepng.com/public/uploads/large/purepng.com-running-shoesrunning-shoesrunningshoessportingphysical-activitiesstyle-1701528186052wxxfi.png"
+  },
+  {
+    "id": 13,
+    "name": "Men's T-Shirt",
+    "category": "Fashion",
+    "brand": "Nike",
+    "price": 19.99,
+    "rating": 4.2,
+    "imageUrl": "https://purepng.com/public/uploads/large/purepng.com-men-t-shirtclothingmen-t-shirtfashion-dress-shirt-cloth-tshirt-631522326839zoswy.png"
+  },
+  {
+    "id": 14,
+    "name": "Watch",
+    "category": "Fashion",
+    "brand": "Adidas",
+    "price": 649.99,
+    "rating": 2.9,
+    "imageUrl": "https://www.transparentpng.com/thumb/watch/ZQrd0O-classic-watch-png-pictures.png"
+  },
+  {
+    "id": 15,
+    "name": "Sunglasses",
+    "category": "Fashion",
+    "brand": "Nike",
+    "price": 8.6,
+    "rating": 4.5,
+    "imageUrl": "https://pngfre.com/wp-content/uploads/sunglasses-poster.png"
+  }
+]
